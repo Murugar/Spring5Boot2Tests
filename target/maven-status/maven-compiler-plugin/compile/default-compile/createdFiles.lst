@@ -1,8 +1,0 @@
-com/iqmsoft/config/SwaggerConfig.class
-com/iqmsoft/web/HomeController.class
-com/iqmsoft/domain/Note.class
-com/iqmsoft/web/NoteController.class
-com/iqmsoft/service/NoteService.class
-com/iqmsoft/SpringLombokApplication.class
-com/iqmsoft/config/DummyData.class
-com/iqmsoft/repository/NoteRepository.class
